@@ -1,0 +1,32 @@
+.image{
+    width:198.07px;
+    height:59px;
+    left:212px;
+    top:30px;
+}
+.button{
+    width:104px;
+    height:43px;
+    left: 1201px;
+    top:25px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    color: white;
+}
+.color-bg{
+    background-color:#F0FFF0;
+}
+.color-red{
+    color: red;
+}
+.color-span{
+    color:#21b573;
+}
+.highlighter{
+    color:black;
+    font-weight: 700;
+}
+p{
+    color:#6C6B6B;
+}
