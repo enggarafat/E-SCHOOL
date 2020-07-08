@@ -1,4 +1,4 @@
-.image{
+.logo{
     width:198.07px;
     height:59px;
     left:212px;
@@ -6,7 +6,7 @@
 }
 .button{
     width:104px;
-    height:43px;
+    height:40px;
     left: 1201px;
     top:25px;
     background: #21B573;
@@ -27,6 +27,92 @@
     color:black;
     font-weight: 700;
 }
-p{
+.carousel{
     color:#6C6B6B;
+    font-size: 16px;
+}
+.carousel-item{
+    padding:20px;
+}
+.icon1{
+    height:85px;
+    widows: 66px;
+}
+.icon2{
+    width:80px;
+    height: 83px;
+
+}
+.icon3{
+    width:75px;
+    height:80px;
+}
+.icon4{
+    width:68px;
+    height:76px;
+}
+.box{
+    padding:50px 50px;
+    border-radius: 10px;
+    width:270px;
+    height:270px;
+}
+.cat1, .cat3, .cat4{
+    background-color:#F8FFFB;
+}
+.cat2{
+    background-color: #FFFFFF;
+    box-shadow:0px 20px 40px #0000001a;
+}
+.margin{
+    margin-top: 40px;
+}
+.highlight-p{
+    color:#413960;
+    font-size:36px;
+    font-weight:bold;
+}
+.calender, .people{
+    width:24px;
+    height:24px;
+}
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px #0000001a;
+    border:none;
+}
+.man{
+    width:120px;
+    height:120px;
+    
+}
+.testimonial{
+    padding-right: 120px;
+    font-size: 16px;
+    color:#000000;
+}
+.footer-paragraph p{
+    color:F;
+    font-weight: bold;
+    font-size: 18px;
+    color:#FFFFFF;
+   
+}
+.footer-paragraph h5{
+    font-size: 20px;
+    font-weight: bold;
+    color:#FFFFFF;
+}
+.footer-first{
+    font-size:16px;
+    color:#FFFFFF;
+}
+.footer-bg{
+    background-color:#282531 ;
+}
+.footer-padding{
+    padding-bottom: 20px;
+}
+small{
+    color:#FFFFFF;
 }
